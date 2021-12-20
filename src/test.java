@@ -11,7 +11,7 @@ public class test {
     private static int nbProdP1 = 4;
     private static int nbProdP2 = 4;
     private static int prioriteP1 = 10;
-    private static int prioriteP2= 1; //
+    private static int prioriteP2= 1;
     
     public static void main(String[] args) {
         
